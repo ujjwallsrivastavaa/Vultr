@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/(.*)",
+      "destination": "https://sih-rufh.onrender.com/api/$1"
+    }
+  ]
+}
